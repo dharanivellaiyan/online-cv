@@ -9,6 +9,7 @@ sidebar:
     # Profile information
     name: Dharani
     tagline: Devops Engineer
+    avatar: dharani.jpg
     
     # Sidebar links
     email: dharaniece2021@gmail.com
@@ -16,6 +17,7 @@ sidebar:
     timezone: India/Kolkata
     citizenship: indian
     github: dharanivellaiyan
+    linkedin: Dharani Vellaiyan
   
 
     languages:
@@ -35,15 +37,18 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      To work in an innovative and Challenging environment equipped with start to end technology
+      To work in an innovative and challenging environment equipped with start to end technology
       that enhances my skill and knowledge with which I can contribute to the organizations growth
       and profitability.  
 education:
     - degree: B.E-Electronics Communication Engineering
       university: Anna University
       time: 2021 - 2022
-experiences:
-    - role: Fresher 
+
+    - degree: Devops course
+      university: Freshkite & Cloudyuga
+      time: 2022-present
+
 projects:
     title: Projects
     assignments:
@@ -53,24 +58,22 @@ projects:
       - title: Crud Operation
         tagline: "we can store employees details,student details."
 
-skills:
+skills: 
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python 
+      - name: Python & PHP & Mysql
         level: 85%
 
       - name: Javascript & jQuery
         level: 50%
 
-      - name: PHP
-        level: 50%
-
       - name: HTML & CSS
         level: 50%
 
-      - name: Mysql
+      - name: linux
         level: 75%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: git & github
+        level: 50%
+ 

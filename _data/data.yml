@@ -43,7 +43,7 @@ career-profile:
 education:
     - degree: B.E-Electronics Communication Engineering
       university: Anna University
-      time: 2021 - 2022
+      time: 2017 - 2021
 
     - degree: Devops course
       university: Freshkite & Cloudyuga
@@ -53,10 +53,10 @@ projects:
     title: Projects
     assignments:
       - title: Grocerystore Application
-        tagline: "we can store grocerystore products,orders and also orders details in the backend,frontend and database. "
+        tagline: "In this web application to we can store grocerystore products,orders and also orders details in the backend,frontend and database. "
 
       - title: Crud Operation
-        tagline: "we can store employees details,student details."
+        tagline: "In this web application to we can store employees details,student details."
 
 skills: 
     title: Skills &amp; Proficiency

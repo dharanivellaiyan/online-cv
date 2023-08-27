@@ -45,9 +45,13 @@ education:
       university: Anna University
       time: 2017 - 2021
 
+Courses:
     - degree: Devops course
-      university: Freshkite & Cloudyuga
-      time: 2022-present
+      university: Cloudyuga
+      time: June 2022 - August 2022 
+    - degree: Python course
+      university: Freshkite
+      time: Febrauary 2022 - May 2022
       
 experiences:
     - role: ServiceNow Developer
@@ -58,6 +62,8 @@ experiences:
           - Experience in various IT Services of Service Now tool like Event Management, Customer Service Management, Configuration Management Database (CMDB), Change, Incident and Problem Management, Service Portal, Reporting.
           - Experience in Event Rule, Event field mapping, Alert management Rule, Alert Correlation Rule. 
           - Workspace experience in Agent Workspace and Service Operational Workspace.
+          - Worked on Agent Client Collector & Health Log Analytics.
+          - Experience in Client side & Server side Script.
 projects:
     title: Projects
     assignments:

@@ -48,12 +48,12 @@ education:
     - degree: Devops course
       university: Freshkite & Cloudyuga
       time: 2022-present
+      
 experiences:
     - role: ServiceNow Developer
       time: 2022 - Present
       company: CubeSimple
-      details: |
-      - As a ServiceNow Developer 1 year experience in the field of ITOM
+      
 projects:
     title: Projects
     assignments:

@@ -66,8 +66,11 @@ experiences:
 projects:
     title: Projects
     assignments:
+      - title: IoT Soil Monitoring System
+        tagline: "Designed to monitor and manage soil conditions in agricultural fields, gardens, and greenhouses. This system utilizes IoT sensors to collect real-time data on various soil parameters, providing critical insights to optimize agricultural practices, enhance crop yields, and ensure sustainable land management."
+    
       - title: Grocerystore Application
-        tagline: "In this web application to we can store grocerystore products,orders and also orders details in the backend,frontend and database. "
+        tagline: "In this web application to we can store grocerystore products,orders and also orders details in the backend,frontend and database."
 
       - title: Crud Operation
         tagline: "In this web application to we can store employees details,student details."

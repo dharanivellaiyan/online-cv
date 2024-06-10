@@ -61,8 +61,8 @@ experiences:
           - Workspace experience in Agent Workspace and Service Operational Workspace.
           - Worked on Agent Client Collector & Health Log Analytics.
           - Experience in Client side & Server side Script, Script include, UI actions & UI policies.
-          - Worked in REST API Integrations.
-          - Experience in Flow designer.
+          - Implemented REST API integrations to facilitate seamless data exchange and automation between ServiceNow and external systems.
+          - Designed and implemented workflows in ServiceNow's Flow Designer to automate processes and enhance efficiency.
 projects:
     title: Projects
     assignments:
@@ -79,11 +79,11 @@ skills:
       - name: ServiceNow Event Managenent
         level: 90%
 
-      - name: ServiceNow ITSM & Order Management
+      - name: ServiceNow ITSM & Order Management & Discovery
         level: 75%
         
       - name: Python & Mysql
-        level: 85%
+        level: 50%
         
       - name: Javascript & jQuery
         level: 50%

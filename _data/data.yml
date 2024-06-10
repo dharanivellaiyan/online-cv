@@ -55,7 +55,7 @@ experiences:
       time: 2022 - Present
       company: CubeSimple
       details: |
-          - As a ServiceNow Developer with 1.7 years of experience in the field of ITOM.
+          - As a ServiceNow Developer with 1.10 years of experience in the field of ITOM.
           - Experience in various IT Services of Service Now tool like Event Management, Customer Service Management, Configuration Management Database (CMDB), Change, Incident and Problem Management, Reporting.
           - Experience in Event Rule, Event field mapping, Alert management Rule, Alert Correlation Rule. 
           - Workspace experience in Agent Workspace and Service Operational Workspace.
@@ -76,9 +76,15 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & PHP & Mysql
-        level: 85%
+      - name: ServiceNow Event Managenent
+        level: 90%
 
+      - name: ServiceNow ITSM & Order Management
+        level: 75%
+        
+      - name: Python & Mysql
+        level: 85%
+        
       - name: Javascript & jQuery
         level: 50%
 
@@ -86,13 +92,13 @@ skills:
         level: 50%
 
       - name: linux
-        level: 75%
+        level: 50%
 
       - name: git & github
         level: 50%
 
       - name: Docker & Kubernetes
-        level: 50%
-
+        level: 25%
+   
 
  

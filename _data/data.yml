@@ -57,7 +57,8 @@ experiences:
       details: |
           - As a ServiceNow Developer with 2 years of experience in the field of ITOM Event Management.
           - Experience in various IT Services of Service Now tool like Event Management, Customer Service Management, Configuration Management Database (CMDB), Change, Incident and Problem Management, Reporting.
-          - Experience in Event Rule, Event field mapping, Alert management Rule, Alert Correlation Rule. 
+          - Experience in Event Rule, Event field mapping, Alert management Rule, Alert Correlation Rule.
+          - Experience in Alert Remediation.
           - Workspace experience in Agent Workspace and Service Operational Workspace.
           - Worked on Agent Client Collector & Health Log Analytics.
           - Experience in Client side & Server side Script, Script include, UI actions & UI policies.
@@ -71,15 +72,12 @@ projects:
     
       - title: Grocerystore Application
         tagline: "In this web application to we can store grocerystore products,orders and also orders details in the backend,frontend and database."
-
-      - title: Crud Operation
-        tagline: "In this web application to we can store employees details,student details."
-
+        
 skills: 
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: ServiceNow Event Managenent
+      - name: ServiceNow Event Managenent ITOM
         level: 90%
 
       - name: ServiceNow ITSM & Order Management & Discovery
@@ -95,7 +93,7 @@ skills:
         level: 50%
 
       - name: linux
-        level: 50%
+        level: 25%
 
       - name: git & github
         level: 50%
